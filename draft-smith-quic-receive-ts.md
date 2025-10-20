@@ -14,11 +14,7 @@ smart_quotes: no
 pi: [toc, sortrefs, symrefs]
 
 author:
- -
-    ins: C. Smith
-    name: Connor Smith
-    org: NVIDIA
-    email: connorsmith.ietf@gmail.com
+
  -
     role: editor
     ins: I. Swett
@@ -31,13 +27,6 @@ author:
     name: Joseph Beshay
     org: Meta Platforms, Inc.
     email: jbeshay@meta.com
- -
-    role: editor
-    ins: S. Jaiswal
-    name: Sharad Jaiswal
-    org: Meta Platforms, Inc.
-    email: sj77@meta.com
-
 
 normative:
 
@@ -363,5 +352,6 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-The editors would like to thank Ilango Purushothaman and Brandon Schlinker
-for their contributions to the design of this QUIC extension.
+The editors would like to thank Connor Smith for writing the initial draft.
+The editors would also like to thank Sharad Jaiswal, Ilango Purushothaman, and
+Brandon Schlinker for their contributions to the design of this QUIC extension.
