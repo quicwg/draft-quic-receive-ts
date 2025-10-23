@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-10-21T01:42:58.128980+00:00",
+  "timestamp": "2025-10-23T01:42:12.571019+00:00",
   "repo": "quicwg/draft-quic-receive-ts",
   "labels": [
     {
@@ -1579,7 +1579,7 @@
       "labels": [],
       "body": "Per the WG chairs request.",
       "createdAt": "2025-10-20T19:55:08Z",
-      "updatedAt": "2025-10-20T19:55:08Z",
+      "updatedAt": "2025-10-21T18:00:24Z",
       "baseRepository": "quicwg/draft-quic-receive-ts",
       "baseRefName": "main",
       "baseRefOid": "7a57990c3356b5b436864492be1c01357236576e",
@@ -1591,7 +1591,21 @@
       "mergedBy": null,
       "mergeCommit": null,
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOGIUVps7IZKdJ",
+          "commit": {
+            "abbreviatedOid": "8fc84a6"
+          },
+          "author": "jbeshay",
+          "authorAssociation": "COLLABORATOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-10-21T18:00:24Z",
+          "updatedAt": "2025-10-21T18:00:24Z",
+          "comments": []
+        }
+      ]
     }
   ]
 }
