@@ -10,7 +10,7 @@ Expires: 7 May 2026                                 Meta Platforms, Inc.
 
 
  QUIC Extended Acknowledgement for Reporting Packet Receive Timestamps
-                   draft-smith-quic-receive-ts-latest
+                   draft-ietf-quic-receive-ts-latest
 
 Abstract
 
