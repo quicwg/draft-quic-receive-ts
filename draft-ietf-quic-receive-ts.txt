@@ -4,7 +4,7 @@
 
 QUIC                                                       I. Swett, Ed.
 Internet-Draft                                                Google LLC
-Intended status: Informational                            J. Beshay, Ed.
+Intended status: Standards Track                          J. Beshay, Ed.
 Expires: 7 May 2026                                 Meta Platforms, Inc.
                                                          3 November 2025
 
